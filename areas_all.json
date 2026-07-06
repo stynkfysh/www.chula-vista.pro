@@ -1,0 +1,1498 @@
+[
+ {
+  "slug": "chula-vista",
+  "name": "Chula Vista",
+  "region_tag": "South Bay • San Diego County",
+  "lead": "Chula Vista is the second-largest city in San Diego County and the anchor of the South Bay, stretching from San Diego Bay east into the foothills below the Otay Mountains. It is defined by a sharp contrast between its established, older west side near downtown and the large master-planned communities that have filled the east side over the past three decades.",
+  "market": "The residential market divides clearly along Interstate 805. West of the freeway, buyers find a broad age range of housing, from early- and mid-twentieth-century bungalows and Spanish styles around Third Avenue to postwar tracts, generally on more conventional lots without special assessments. East of the freeway, master-planned villages such as Eastlake, Otay Ranch, and Millenia deliver newer construction, homeowner associations, and community amenities, frequently carrying Mello-Roos and Community Facilities District obligations that affect total housing cost. Price points span a wide gap between the two sides, and elevation, view orientation, and proximity to community parks and top-rated schools drive meaningful variation. Condominium and townhome supply is concentrated in Otay Ranch and Millenia, while detached inventory dominates Rolling Hills Ranch, Rancho del Rey, and the Long Canyon corridor.",
+  "neighborhoods": [
+   "Eastlake",
+   "Otay Ranch",
+   "Rolling Hills Ranch",
+   "Rancho del Rey",
+   "Millenia",
+   "Terra Nova",
+   "Sunbow",
+   "Bonita Long Canyon",
+   "Third Avenue Village",
+   "Lynwood Hills"
+  ],
+  "highlights": "Landmarks include the Chula Vista Bayfront and Living Coast Discovery Center, Otay Ranch Town Center, Rohr Park, the historic Third Avenue Village, and highly regarded campuses such as Eastlake High School and Olympian High School.",
+  "valuation": "Accurate valuation requires distinguishing east-side homes subject to Mello-Roos or CFD special taxes from unencumbered west-side properties, and careful treatment of view lots, elevation premiums, and the wide effective-age spread between older west-side stock and newer master-planned construction. Homeowner association dues and community-specific amenities should be reconciled against comparable sales drawn from the same village.",
+  "zips": "91910, 91911, 91913, 91914, 91915",
+  "nearby": [
+   "bonita",
+   "national-city",
+   "imperial-beach",
+   "san-diego",
+   "spring-valley"
+  ]
+ },
+ {
+  "slug": "bonita",
+  "name": "Bonita",
+  "region_tag": "South Bay • San Diego County",
+  "lead": "Bonita is an unincorporated community in the Sweetwater Valley, tucked between Chula Vista, National City, and San Diego. Known for its semi-rural character, equestrian trails, and larger lots, it retains a quieter feel than the surrounding incorporated cities.",
+  "market": "Housing in Bonita is dominated by detached single-family homes, many built in the 1970s and 1980s on generous parcels, with a share of properties zoned to permit horses. Values sit well above the county median, supported by lot size, the Sweetwater River corridor greenbelt, and access to well-regarded Sweetwater Union district schools. Turnover is comparatively low, and gated enclaves such as Sunnyside Estates command premiums over standard tract inventory. Custom and semi-custom homes on view or canyon-rim lots represent the upper tier of the local market.",
+  "neighborhoods": [
+   "Sunnyside",
+   "Sunnyside Estates",
+   "Bonita Highlands",
+   "Bonita Long Canyon",
+   "Sweetwater Valley",
+   "Rancho Bonita",
+   "Corral Canyon",
+   "Bonita Meadows"
+  ],
+  "highlights": "Rohr Park, the Bonita-Sunnyside Library, the Sweetwater Regional Park trail system, the Chula Vista Municipal Golf Course, and Sunnyside Elementary anchor the community.",
+  "valuation": "Lot size, horse-property zoning, and view or canyon-rim positioning are primary value drivers and should be paired carefully in analysis. Gated-community status and the older effective age of much of the housing stock warrant attention when selecting comparables.",
+  "zips": "91902, 91908",
+  "nearby": [
+   "chula-vista",
+   "national-city",
+   "spring-valley",
+   "san-diego",
+   "lemon-grove"
+  ]
+ },
+ {
+  "slug": "national-city",
+  "name": "National City",
+  "region_tag": "South Bay • San Diego County",
+  "lead": "National City is one of the oldest incorporated cities in San Diego County, sitting on San Diego Bay just south of downtown San Diego. It combines a dense, historic urban core with waterfront and industrial areas and a strong concentration of legacy housing.",
+  "market": "The residential inventory leans toward older construction, including Victorian-era and early-twentieth-century homes in and around the Brick Row and Heritage Square area, alongside postwar bungalows and a substantial base of multifamily and condominium product. Prices generally run below neighboring South Bay communities, making the city a relative entry point into bay-adjacent ownership. Renovation quality, historic-district considerations, and mixed land use influence value from block to block. Redevelopment along the National City Boulevard and Marina District corridors continues to add newer attached housing.",
+  "neighborhoods": [
+   "Old Town",
+   "Kimball Park",
+   "Las Palmas",
+   "Lincoln Acres",
+   "Heritage Square",
+   "Granger",
+   "El Toyon",
+   "Marina District"
+  ],
+  "highlights": "Kimball Park, Pepper Park on the bayfront, the historic Brick Row and Kimball House, El Toyon Park, and Sweetwater High School are notable local landmarks.",
+  "valuation": "The prevalence of older and historically significant homes, along with mixed residential and commercial zoning, calls for close attention to condition, remodel scope, and any historic-designation constraints. Multifamily and condominium comparables should be segregated from detached sales.",
+  "zips": "91950",
+  "nearby": [
+   "chula-vista",
+   "bonita",
+   "san-diego",
+   "lemon-grove",
+   "spring-valley"
+  ]
+ },
+ {
+  "slug": "imperial-beach",
+  "name": "Imperial Beach",
+  "region_tag": "South Bay • San Diego County",
+  "lead": "Imperial Beach is the southernmost beach city on the West Coast of the continental United States, bordered by San Diego Bay, the Pacific Ocean, and the Tijuana River estuary. It has a relaxed, coastal small-town identity distinct from the county's more expensive northern beach towns.",
+  "market": "Proximity to the shoreline is the dominant value factor, with a clear premium attached to Seacoast Drive and other properties within walking distance of the sand. Housing ranges from modest postwar cottages and bungalows inland to newer beach condominiums and rebuilt coastal homes near the pier. The market has appreciated as buyers seek comparatively attainable oceanfront and near-ocean living, though inland tracts remain more moderately priced. Coastal-zone regulation and short-term-rental activity add layers that affect certain properties.",
+  "neighborhoods": [
+   "Seacoast",
+   "Palm City",
+   "Nestor",
+   "Egger Highlands",
+   "Bayside",
+   "Imperial Beach Central",
+   "The Cays area"
+  ],
+  "highlights": "The Imperial Beach Pier, Portwood Pier Plaza and its surfboard sculptures, the Tijuana River Estuary, Sports Park, and Imperial Beach Elementary anchor the community.",
+  "valuation": "Distance to the beach, ocean views, and flood-zone status are the leading valuation considerations, alongside Coastal Commission jurisdiction on shoreline parcels. Condominium comparables near the pier should be kept separate from inland detached tracts in Nestor and Egger Highlands.",
+  "zips": "91932",
+  "nearby": [
+   "chula-vista",
+   "national-city",
+   "coronado",
+   "san-diego",
+   "bonita"
+  ]
+ },
+ {
+  "slug": "la-mesa",
+  "name": "La Mesa",
+  "region_tag": "East County • San Diego County",
+  "lead": "La Mesa is an established inner-ring suburb east of San Diego, known as the \"Jewel of the Hills\" for its rolling terrain and walkable downtown Village. It offers a mix of vintage character homes, hillside view properties, and convenient trolley and freeway access.",
+  "market": "The housing stock skews toward mid-twentieth-century single-family homes, with pockets of older Craftsman and Spanish architecture near the Village and upscale custom homes on the slopes of Mount Helix. Values vary widely by elevation and view, with Mount Helix commanding the top of the market and flatter Rolando-area tracts offering more moderate pricing. Lake Murray-adjacent neighborhoods draw buyers seeking recreation and quieter streets. Renovation quality and lot topography strongly influence individual sale prices.",
+  "neighborhoods": [
+   "Mount Helix",
+   "La Mesa Village",
+   "Rolando",
+   "Fletcher Hills",
+   "Lake Murray",
+   "Grossmont",
+   "Del Cerro Heights",
+   "Windsor Hills"
+  ],
+  "highlights": "Mount Helix Park and its outdoor amphitheater, downtown La Mesa Village, Lake Murray Reservoir, Grossmont Center, and Helix Charter High School are area landmarks.",
+  "valuation": "Hillside topography, view orientation, and the effective-age spread between vintage Village-area homes and later hillside construction are central to valuation. Mount Helix's custom-home tier should be bracketed separately from standard tract inventory.",
+  "zips": "91941, 91942",
+  "nearby": [
+   "el-cajon",
+   "lemon-grove",
+   "spring-valley",
+   "san-diego",
+   "del-cerro"
+  ]
+ },
+ {
+  "slug": "el-cajon",
+  "name": "El Cajon",
+  "region_tag": "East County • San Diego County",
+  "lead": "El Cajon sits in a broad inland valley ringed by low mountains, serving as a regional hub for East County. It offers a wide spread of housing from older downtown-core blocks to newer hillside developments on its eastern edge.",
+  "market": "The market is organized loosely by ZIP code, with the central 92020 area holding older mid-century inventory near downtown, the eastern 92019 zone reaching toward newer Rancho San Diego-adjacent hillside homes, and 92021 extending northeast toward the Cajon Valley foothills and Lakeside. Pricing is generally more attainable than coastal and central-county markets, drawing value-oriented buyers. Granite Hills and Fletcher Hills provide larger-lot and view options at the upper end. Condition, remodel scope, and lot topography account for much of the variation across the valley floor and surrounding slopes.",
+  "neighborhoods": [
+   "Fletcher Hills",
+   "Granite Hills",
+   "Bostonia",
+   "Rancho San Diego area",
+   "Downtown El Cajon",
+   "Blossom Valley",
+   "Naranca",
+   "Cajon Valley"
+  ],
+  "highlights": "The Magnolia Performing Arts Center, downtown Prescott Promenade, Wells Park, Gillespie Field, and Granite Hills and Valhalla High Schools anchor the city.",
+  "valuation": "The distinct character of the three ZIP-code submarkets, along with hillside topography in Fletcher Hills and Granite Hills, should guide comparable selection. Older downtown-core stock warrants close attention to effective age and renovation level.",
+  "zips": "92019, 92020, 92021",
+  "nearby": [
+   "la-mesa",
+   "santee",
+   "lakeside",
+   "rancho-san-diego",
+   "spring-valley"
+  ]
+ },
+ {
+  "slug": "santee",
+  "name": "Santee",
+  "region_tag": "East County • San Diego County",
+  "lead": "Santee is a family-oriented city in the San Diego River valley, bordered by Mission Trails Regional Park to the west and low hills to the north. It is known for its recreational lakes, newer master-planned neighborhoods, and comparatively suburban feel.",
+  "market": "Housing ranges from established 1960s and 1970s tracts in Carlton Hills and Carlton Oaks to newer hillside and master-planned product in Sky Ranch and the northern reaches of the city. Detached single-family homes dominate, with values supported by good schools, parks, and freeway access to central San Diego. Sky Ranch and other recent developments carry newer construction and, in some cases, community-association and special-assessment obligations. River-valley flood considerations affect certain lower-lying parcels.",
+  "neighborhoods": [
+   "Carlton Hills",
+   "Carlton Oaks",
+   "Sky Ranch",
+   "West Hills",
+   "Fanita Ranch area",
+   "Rio Seco",
+   "Prospect Avenue corridor"
+  ],
+  "highlights": "Santee Lakes Recreation Preserve, Mission Trails Regional Park, Town Center Community Park, Carlton Oaks Country Club, and West Hills High School are prominent landmarks.",
+  "valuation": "The contrast between older Carlton Hills tracts and newer Sky Ranch construction drives an effective-age spread that should be reflected in comparable selection, along with any special-assessment obligations on recent developments and San Diego River flood-zone status on low-lying lots.",
+  "zips": "92071",
+  "nearby": [
+   "el-cajon",
+   "lakeside",
+   "la-mesa",
+   "san-diego",
+   "spring-valley"
+  ]
+ },
+ {
+  "slug": "lakeside",
+  "name": "Lakeside",
+  "region_tag": "East County • San Diego County",
+  "lead": "Lakeside is an unincorporated East County community set along the San Diego River in a rural-suburban valley below El Capitan Reservoir. It retains a distinctly country character, with horse properties, larger lots, and hillside acreage common throughout the area.",
+  "market": "The housing base blends conventional valley-floor tracts with rural and semi-rural properties in the surrounding hills, including horse-zoned parcels and custom homes on acreage. Eucalyptus Hills and the higher elevations command premiums for lot size, privacy, and views, while Winter Gardens and the flatter core offer more moderate pricing. Values generally trail the incorporated cities to the west, appealing to buyers seeking land and rural lifestyle. Well and septic systems, fire-zone designations, and lot usability are recurring factors in the market.",
+  "neighborhoods": [
+   "Eucalyptus Hills",
+   "Winter Gardens",
+   "Lake Jennings area",
+   "Moreno Valley (Lakeside)",
+   "Blossom Valley",
+   "Wintergardens",
+   "Riverview"
+  ],
+  "highlights": "Lake Jennings, the San Diego River, the Lakeside Rodeo Grounds, El Capitan Reservoir, and El Capitan High School are area landmarks.",
+  "valuation": "Lot size, horse-property zoning, acreage usability, and view positioning are leading value drivers, along with well and septic reliance and wildfire-zone designation on hillside parcels. Rural custom homes should be bracketed separately from valley-floor tract inventory.",
+  "zips": "92040",
+  "nearby": [
+   "santee",
+   "el-cajon",
+   "alpine",
+   "ramona",
+   "rancho-san-diego"
+  ]
+ },
+ {
+  "slug": "lemon-grove",
+  "name": "Lemon Grove",
+  "region_tag": "East County • San Diego County",
+  "lead": "Lemon Grove is a small, centrally located city between San Diego and East County, incorporated in 1977 and long recognized by its landmark oversized lemon sculpture. It offers established, moderately priced housing with convenient trolley and freeway access.",
+  "market": "The residential inventory is composed largely of mid-twentieth-century single-family homes on standard lots, supplemented by condominiums and apartment buildings. Pricing tends to sit below neighboring La Mesa and central San Diego, positioning the city as a relative entry point for East County buyers. Hillside pockets such as Broadway Heights offer view potential and larger parcels at the upper end. Condition and remodel scope are the primary levers of value across the predominantly older stock.",
+  "neighborhoods": [
+   "Broadway Heights",
+   "Central Lemon Grove",
+   "Palm Street area",
+   "Massachusetts Avenue corridor",
+   "North Lemon Grove",
+   "Skyline-adjacent hills"
+  ],
+  "highlights": "The Lemon Grove \"Big Lemon\" landmark, Berry Street Park, Civic Center Park, the historic H. Lee House, and the trolley Green Line are community fixtures.",
+  "valuation": "The predominantly older housing stock makes condition, effective age, and renovation quality central to valuation, while hillside view lots in Broadway Heights warrant separate bracketing. Detached comparables should be kept distinct from the sizable condominium base.",
+  "zips": "91945",
+  "nearby": [
+   "la-mesa",
+   "spring-valley",
+   "national-city",
+   "san-diego",
+   "el-cajon"
+  ]
+ },
+ {
+  "slug": "spring-valley",
+  "name": "Spring Valley",
+  "region_tag": "East County • San Diego County",
+  "lead": "Spring Valley is a large unincorporated community in the hills of East County, the county's biggest unincorporated area at roughly thirteen square miles. It encompasses a patchwork of hillside neighborhoods ranging from modest valley tracts to upscale enclaves near Mount Helix.",
+  "market": "Housing spans a wide range, from postwar tract homes on the valley floor to larger custom and view properties on the slopes of Dictionary Hill, Casa de Oro, and the Mount Helix fringe. Pricing is generally moderate relative to the incorporated cities, though hillside view parcels reach well above the local median. The community's varied topography produces significant value differences over short distances. Older stock, lot usability, and view orientation are the dominant factors buyers weigh.",
+  "neighborhoods": [
+   "Casa de Oro",
+   "Dictionary Hill",
+   "Calavo Gardens",
+   "La Presa",
+   "Rancho San Diego border",
+   "Bancroft",
+   "Homeland",
+   "Kenwood"
+  ],
+  "highlights": "The Bancroft Ranch House museum, Sweetwater Summit Regional Park, Dictionary Hill Open Space, Spring Valley County Park, and Monte Vista High School anchor the area.",
+  "valuation": "Steep and varied topography, view positioning, and lot usability drive substantial value differences within short distances, requiring careful comparable selection. The effective-age spread between valley-floor tracts and newer or custom hillside homes should be reflected in the analysis.",
+  "zips": "91977, 91978",
+  "nearby": [
+   "lemon-grove",
+   "la-mesa",
+   "el-cajon",
+   "rancho-san-diego",
+   "bonita"
+  ]
+ },
+ {
+  "slug": "rancho-san-diego",
+  "name": "Rancho San Diego",
+  "region_tag": "East County • San Diego County",
+  "lead": "Rancho San Diego is a master-planned unincorporated community southeast of El Cajon, developed as subdivisions beginning in the 1970s. It is known for its curated hillside neighborhoods, golf courses, and strong schools in a scenic valley-and-foothill setting.",
+  "market": "The housing base consists largely of planned single-family tracts and view homes built from the 1970s onward, with newer semi-custom product on the community's edges. Values are supported by well-regarded schools such as Steele Canyon and Valhalla High, open-space preserves, and a suburban master-planned environment. Some neighborhoods carry homeowner-association obligations and, in select tracts, special assessments. Golf-course frontage and elevated view lots represent the upper tier of the market.",
+  "neighborhoods": [
+   "Steele Canyon",
+   "Cottonwood Hills",
+   "Hillsdale",
+   "Monte Vista",
+   "Rancho San Diego Village",
+   "Fuerte area",
+   "Ivanhoe Ranch"
+  ],
+  "highlights": "The Steele Canyon and Cottonwood golf clubs, Rancho San Diego Towne Center, Cuyamaca College, Sweetwater Summit Regional Park trails, and Steele Canyon High School anchor the community.",
+  "valuation": "View orientation, golf-course frontage, and any homeowner-association or special-assessment obligations should be reconciled against comparables from the same planned tract. The range of construction eras across the community warrants attention to effective age.",
+  "zips": "92019",
+  "nearby": [
+   "el-cajon",
+   "spring-valley",
+   "jamul",
+   "alpine",
+   "la-mesa"
+  ]
+ },
+ {
+  "slug": "alpine",
+  "name": "Alpine",
+  "region_tag": "East County • San Diego County",
+  "lead": "Alpine is a semi-rural mountain community in the foothills east of El Cajon, sitting at higher elevation along the Interstate 8 corridor. It is prized for its cooler climate, open space, larger parcels, and small-town character.",
+  "market": "Housing ranges from conventional tract homes near the town center to custom residences and horse properties on acreage in the surrounding hills. Gated communities such as Rancho Palo Verde and neighborhoods like Alpine Heights and Palo Verde offer amenities, privacy, and view lots. Values reflect a premium for land, elevation, and rural lifestyle relative to the denser valley cities below. Well and septic systems, wildfire-zone designations, and parcel usability are consistent considerations across the market.",
+  "neighborhoods": [
+   "Alpine Heights",
+   "Rancho Palo Verde",
+   "Palo Verde",
+   "Victoria",
+   "Harbison Canyon",
+   "Alpine Village",
+   "Tavern Road corridor"
+  ],
+  "highlights": "The Viejas Casino and Outlets, Wright's Field open-space preserve, Alpine Community Center, the Alpine Historical Society, and Alpine Elementary and Granite Hills-area high schools serve the community.",
+  "valuation": "Acreage, elevation, view positioning, and horse-property zoning are leading value drivers, alongside well and septic reliance and wildfire-zone designation. Gated-community and custom-home tiers should be bracketed separately from town-center tract inventory.",
+  "zips": "91901",
+  "nearby": [
+   "rancho-san-diego",
+   "el-cajon",
+   "lakeside",
+   "jamul",
+   "pine-valley"
+  ]
+ },
+ {
+  "slug": "san-diego",
+  "name": "San Diego",
+  "region_tag": "Central San Diego • San Diego County",
+  "lead": "The City of San Diego spans dense urban cores, canyon-lined hillside neighborhoods, and a long stretch of coastline, making it one of the most varied residential markets in Southern California. Housing here ranges from early-1900s Craftsman bungalows near Balboa Park to mid-century tract homes on the mesas and new infill condominiums downtown.",
+  "market": "Values across the city vary widely by community, view orientation, and proximity to the coast, so a citywide median tells only part of the story. Established central neighborhoods draw steady demand for their walkability, mature landscaping, and access to employment centers in Mission Valley and downtown. Newer condominium and townhome product downtown and along the transit corridors competes with detached housing in the surrounding mesas. Limited developable land and long-standing supply constraints continue to shape pricing across most submarkets. Careful selection of comparable sales within the correct neighborhood boundary is essential given how sharply values shift block to block.",
+  "neighborhoods": [
+   "Downtown",
+   "Hillcrest",
+   "University Heights",
+   "Normal Heights",
+   "Golden Hill",
+   "South Park",
+   "Bankers Hill",
+   "Mission Valley",
+   "Serra Mesa",
+   "Linda Vista"
+  ],
+  "highlights": "Landmarks include Balboa Park, the San Diego Zoo, Petco Park, and the historic Gaslamp Quarter, alongside major employers at UC San Diego and the harborfront.",
+  "valuation": "A credible appraisal in the City of San Diego depends on identifying the specific neighborhood submarket and accounting for view, canyon frontage, era of construction, and lot topography. Comparable selection must respect community boundaries, since adjacent areas can carry materially different value levels.",
+  "zips": "92101, 92103, 92104, 92108, 92110, 92116",
+  "nearby": [
+   "mission-hills",
+   "north-park",
+   "kensington",
+   "point-loma",
+   "la-mesa",
+   "national-city"
+  ]
+ },
+ {
+  "slug": "mission-hills",
+  "name": "Mission Hills",
+  "region_tag": "Central San Diego • San Diego County",
+  "lead": "Mission Hills is one of San Diego's oldest and most architecturally distinguished neighborhoods, set on hills just north of downtown with sweeping views toward the bay and Old Town. The area is known for its early-20th-century Craftsman, Spanish Colonial Revival, and Prairie-style residences on tree-lined streets.",
+  "market": "The neighborhood commands a premium within the central San Diego market owing to its historic housing stock, mature canopy, and short walk to Hillcrest amenities. Original period homes, many with protected historic designations, trade alongside carefully renovated properties and a smaller number of newer infill builds. View orientation toward downtown and the harbor is a meaningful value driver, as is lot size on the larger estate parcels. Inventory tends to be limited, and well-preserved architectural examples draw strong interest. Condition, era-appropriate updates, and any Mills Act historic contracts require close attention in the analysis.",
+  "neighborhoods": [
+   "Lower Mission Hills",
+   "Presidio Hills",
+   "Inspiration Heights",
+   "Sunset Boulevard",
+   "Fort Stockton Line",
+   "Pringle Street area",
+   "Mission Hills Heights",
+   "Middletown"
+  ],
+  "highlights": "Local anchors include Presidio Park, the Junipero Serra Museum, Grant Elementary, and the Fort Stockton and Washington Street commercial districts.",
+  "valuation": "Appraising in Mission Hills requires attention to historic designations, Mills Act status, and the quality of period-sensitive renovations, along with view premiums toward the bay and downtown. Comparable sales should reflect the neighborhood's distinct architectural character rather than generic central-city product.",
+  "zips": "92103, 92110",
+  "nearby": [
+   "san-diego",
+   "north-park",
+   "kensington",
+   "point-loma",
+   "ocean-beach",
+   "coronado"
+  ]
+ },
+ {
+  "slug": "north-park",
+  "name": "North Park",
+  "region_tag": "Central San Diego • San Diego County",
+  "lead": "North Park is a dense, highly walkable neighborhood east of Hillcrest recognized for its craftsman bungalows, active commercial corridors, and concentration of restaurants and breweries. It has become one of San Diego's most sought-after urban communities for buyers wanting a car-optional lifestyle.",
+  "market": "Demand is driven by walkability, a distinctive small-lot bungalow housing stock, and the neighborhood's reputation as a dining and nightlife destination. Detached early-1900s homes trade alongside converted and purpose-built condominiums and a growing number of accessory dwelling units. Proximity to the University Avenue and 30th Street corridors and to Balboa Park supports steady buyer interest. Renovated bungalows and income-producing multi-unit properties are both common in the sales mix. Lot size, off-street parking, ADU potential, and quality of restoration are key differentiators in this market.",
+  "neighborhoods": [
+   "Burlingame",
+   "Morley Field",
+   "North Park Historic District",
+   "University Heights",
+   "Altadena",
+   "West North Park",
+   "Ray Street Arts District",
+   "30th Street corridor"
+  ],
+  "highlights": "Notable features include Balboa Park's Morley Field, the North Park Theatre, McKinley Elementary, and the University Avenue and 30th Street commercial districts.",
+  "valuation": "Valuation in North Park hinges on lot dimensions, off-street parking, ADU or income potential, and the caliber of bungalow restoration, given the tight and highly varied housing stock. The Burlingame historic tract and multi-unit properties warrant carefully matched comparables.",
+  "zips": "92104",
+  "nearby": [
+   "san-diego",
+   "mission-hills",
+   "kensington",
+   "la-mesa",
+   "lemon-grove",
+   "national-city"
+  ]
+ },
+ {
+  "slug": "kensington",
+  "name": "Kensington",
+  "region_tag": "Central San Diego • San Diego County",
+  "lead": "Kensington is a small, gracious neighborhood east of North Park known for its Spanish Colonial Revival homes, curving streets, and canyon-edge views over Mission Valley. Its cohesive early-20th-century design and quiet residential character set it apart within central San Diego.",
+  "market": "The neighborhood is prized for architectural consistency, mature landscaping, and a compact, pedestrian-friendly village center along Adams Avenue. Housing is predominantly detached single-family, with Spanish and Mediterranean styles well represented and canyon-rim lots commanding premiums. Limited turnover and strong neighborhood identity tend to support values relative to surrounding areas. Buyers place value on original architectural detail and thoughtful, period-appropriate updates. View orientation and lot position along the canyon are important considerations in the sales analysis.",
+  "neighborhoods": [
+   "Kensington Park",
+   "Kensington Heights",
+   "Kensington Manor",
+   "Talmadge",
+   "Normal Heights",
+   "Marlborough Drive area",
+   "Adams Avenue village"
+  ],
+  "highlights": "Local landmarks include the Kensington sign and library, Franklin Elementary, and the Adams Avenue business district bordering Talmadge and Normal Heights.",
+  "valuation": "Appraisal work in Kensington emphasizes architectural authenticity, canyon-view orientation, and lot position, with the neighborhood's small size making tightly matched comparables important. Care is needed to distinguish Kensington proper from adjoining Talmadge and Normal Heights.",
+  "zips": "92116",
+  "nearby": [
+   "san-diego",
+   "north-park",
+   "mission-hills",
+   "del-cerro",
+   "la-mesa",
+   "lemon-grove"
+  ]
+ },
+ {
+  "slug": "university-city",
+  "name": "University City",
+  "region_tag": "Central San Diego • San Diego County",
+  "lead": "University City is a mid-city community adjacent to the UC San Diego campus and the University Towne Centre commercial core, bounded by Interstates 5 and 805 and State Route 52. It combines established single-family neighborhoods to the south with denser residential and employment development to the north.",
+  "market": "Demand is supported by proximity to UC San Diego, major biotech and technology employers, and the retail and transit hub at Westfield UTC. South University City is characterized by mid-century single-family homes on conventional lots, while North University City includes newer condominiums, townhomes, and planned communities. The community's central location and employment access sustain steady buyer interest across price points. Detached homes and attached product often serve distinct buyer segments within the same ZIP codes. School attendance areas, freeway proximity, and unit type are meaningful factors in the analysis.",
+  "neighborhoods": [
+   "South University City",
+   "North University City",
+   "Nobel",
+   "Governor Park",
+   "Standley",
+   "Rose Canyon",
+   "Regents Road area",
+   "La Jolla Colony"
+  ],
+  "highlights": "Anchors include UC San Diego, Westfield UTC, Standley Park and Recreation Center, and Doyle and Curie elementary schools within the community.",
+  "valuation": "Appraising in University City requires separating detached single-family product in the south from attached and planned-community housing in the north, along with attention to school boundaries and freeway proximity. Unit type and community association obligations should be reflected in comparable selection.",
+  "zips": "92122, 92121",
+  "nearby": [
+   "la-jolla",
+   "clairemont",
+   "pacific-beach",
+   "san-diego",
+   "mira-mesa",
+   "carmel-valley"
+  ]
+ },
+ {
+  "slug": "clairemont",
+  "name": "Clairemont",
+  "region_tag": "Central San Diego • San Diego County",
+  "lead": "Clairemont, also called Clairemont Mesa, is a large post-war community spread across mesas and canyons between Interstates 5 and 805. It offers a substantial supply of mid-century single-family homes and remains one of San Diego's more attainable central neighborhoods.",
+  "market": "The community's appeal rests on its central location, established housing stock, and relative value compared with the nearby coast. Homes are predominantly single-family properties built from the 1950s onward, many since expanded or remodeled, with bay-view lots on the western edge commanding premiums. Bay Park and Bay Ho in particular benefit from proximity to Mission Bay and freeway access. Renovation scope and view orientation drive much of the variation in value. Canyon-adjacent lots and grade differences also warrant attention in the analysis.",
+  "neighborhoods": [
+   "North Clairemont",
+   "Clairemont Mesa East",
+   "Clairemont Mesa West",
+   "Bay Park",
+   "Bay Ho",
+   "East Clairemont",
+   "Diane Avenue area",
+   "Mount Streets"
+  ],
+  "highlights": "Local features include Tecolote Canyon Natural Park, Mission Bay access, Cadman and Holmes elementary schools, and the Clairemont Square retail center.",
+  "valuation": "Valuation in Clairemont centers on view orientation toward Mission Bay, the extent of remodeling, and canyon-lot topography across a large and varied mid-century inventory. Bay Park and Bay Ho generally warrant comparables distinct from the interior mesa neighborhoods.",
+  "zips": "92117, 92111",
+  "nearby": [
+   "pacific-beach",
+   "university-city",
+   "san-diego",
+   "mission-hills",
+   "tierrasanta",
+   "mira-mesa"
+  ]
+ },
+ {
+  "slug": "tierrasanta",
+  "name": "Tierrasanta",
+  "region_tag": "Central San Diego • San Diego County",
+  "lead": "Tierrasanta is a planned community in central-eastern San Diego, largely developed from the 1970s onward and known for its open space, master-planned layout, and quiet residential streets. Surrounded by canyon preserves and Mission Trails, it is often described as an island of greenery within the city.",
+  "market": "The community draws buyers seeking a suburban feel with a central location and abundant recreational open space. Housing consists chiefly of single-family homes and townhomes built within planned developments, many governed by homeowners associations. Its position near major freeways and Marine Corps Air Station Miramar supports consistent demand, including from military households. Product type, association fees, and proximity to open space are notable differentiators. Age of construction and level of updating shape value across the various tracts.",
+  "neighborhoods": [
+   "Rancho Mission",
+   "Portobello",
+   "Villas de Tierrasanta",
+   "Antigua",
+   "La Vida",
+   "Serra Vista",
+   "Tierra del Sol",
+   "Canyon Ridge"
+  ],
+  "highlights": "Anchors include Mission Trails Regional Park, Tierrasanta Recreation Center, Tierrasanta Elementary, and the community's network of canyon open-space corridors.",
+  "valuation": "Appraisal analysis in Tierrasanta must account for planned-development product type, homeowners association obligations, and proximity to canyon open space and Miramar. Comparable selection should match the correct tract, since construction era and product vary across the community.",
+  "zips": "92124",
+  "nearby": [
+   "del-cerro",
+   "clairemont",
+   "san-diego",
+   "santee",
+   "mira-mesa",
+   "scripps-ranch"
+  ]
+ },
+ {
+  "slug": "del-cerro",
+  "name": "Del Cerro",
+  "region_tag": "Central San Diego • San Diego County",
+  "lead": "Del Cerro is a hillside residential neighborhood in the eastern part of San Diego, set on the slopes near Lake Murray and Mission Trails Regional Park. Its elevated streets offer views across Mission Valley and toward the mountains, giving the area a settled, view-oriented character.",
+  "market": "The neighborhood is valued for its hillside setting, view potential, and access to Lake Murray and Mission Trails recreation. Housing is predominantly mid-century single-family, with many homes remodeled and view lots commanding clear premiums. Proximity to San Diego State University and freeway connections supports steady demand. Elevation, view corridor, and remodeling scope are central to value differentiation. Grade and lot orientation on the hillsides require close attention in the sales analysis.",
+  "neighborhoods": [
+   "Del Cerro Heights",
+   "College Area border",
+   "San Carlos",
+   "Allied Gardens",
+   "Lake Murray",
+   "Princess View Estates",
+   "Adobe Falls area"
+  ],
+  "highlights": "Local landmarks include Lake Murray, Mission Trails Regional Park, Del Cerro Elementary, and the nearby San Diego State University campus.",
+  "valuation": "Valuation in Del Cerro depends heavily on view orientation, elevation, and hillside lot characteristics, alongside the extent of interior updating. Comparable sales should reflect the specific view corridor and grade, which vary meaningfully across the neighborhood.",
+  "zips": "92120",
+  "nearby": [
+   "kensington",
+   "tierrasanta",
+   "la-mesa",
+   "san-diego",
+   "santee",
+   "lemon-grove"
+  ]
+ },
+ {
+  "slug": "la-jolla",
+  "name": "La Jolla",
+  "region_tag": "Coastal San Diego • San Diego County",
+  "lead": "La Jolla is an affluent seaside community within the City of San Diego, distinguished by dramatic coastline, a walkable village center, and some of the region's highest-value residential real estate. Its blend of oceanfront estates, hillside view homes, and a historic village gives it a strong, recognizable identity.",
+  "market": "La Jolla sits at the top tier of the San Diego coastal market, where ocean views, bluff frontage, and village proximity drive substantial premiums. The housing stock spans oceanfront and Mount Soledad view estates, mid-century and contemporary architecture, and a range of condominiums near the village and shores. Limited supply and enduring prestige sustain strong pricing across submarkets. Value can shift dramatically over short distances depending on view quality and elevation. Precise measurement of view scope, lot position, and architectural quality is essential to a credible analysis.",
+  "neighborhoods": [
+   "The Village",
+   "Bird Rock",
+   "Muirlands",
+   "La Jolla Shores",
+   "La Jolla Farms",
+   "Windansea",
+   "Mount Soledad",
+   "La Jolla Alta",
+   "Hidden Valley"
+  ],
+  "highlights": "Landmarks include La Jolla Cove, the Torrey Pines State Natural Reserve, Scripps Institution of Oceanography, and La Jolla High and Bird Rock elementary schools.",
+  "valuation": "Appraising in La Jolla demands rigorous quantification of ocean-view scope, bluff or beach proximity, elevation, and architectural quality, since values shift sharply across the community's submarkets. Well-matched comparables within the correct pocket, such as the Shores, Muirlands, or Bird Rock, are critical.",
+  "zips": "92037",
+  "nearby": [
+   "pacific-beach",
+   "university-city",
+   "san-diego",
+   "del-mar",
+   "clairemont",
+   "mission-hills"
+  ]
+ },
+ {
+  "slug": "pacific-beach",
+  "name": "Pacific Beach",
+  "region_tag": "Coastal San Diego • San Diego County",
+  "lead": "Pacific Beach is a lively coastal neighborhood between Mission Bay and the Pacific Ocean, known for its beachfront boardwalk, casual atmosphere, and mix of cottages, condominiums, and hillside view homes. It appeals to a broad range of buyers drawn to the beach lifestyle and central coastal location.",
+  "market": "Demand is driven by proximity to the ocean and bay, walkability to the boardwalk, and the neighborhood's energetic, resort-like character. The housing mix ranges from small beach cottages and multi-unit properties near the shore to larger single-family view homes on the slopes of Mount Soledad. Short-term rental potential and ocean or bay views are meaningful value factors in many sublocations. Proximity to the water and to the commercial corridors along Garnet and Grand avenues drives much of the pricing variation. Unit type, view, and rental regulation status all warrant close attention in the analysis.",
+  "neighborhoods": [
+   "Crown Point",
+   "North Pacific Beach",
+   "Mission Beach",
+   "Pacific Beach Heights",
+   "La Jolla Hermosa",
+   "Kate Sessions area",
+   "Garnet Avenue corridor",
+   "Bird Rock border"
+  ],
+  "highlights": "Anchors include the Pacific Beach boardwalk, Crystal Pier, Kate Sessions Park, Mission Bay, and Pacific Beach Middle and Crown Point elementary schools.",
+  "valuation": "Valuation in Pacific Beach turns on distance to the sand, ocean or bay view scope, hillside elevation, and unit type, given the wide range from beach cottages to view estates. Short-term rental permitting and multi-unit configurations require careful reflection in comparable selection.",
+  "zips": "92109",
+  "nearby": [
+   "la-jolla",
+   "point-loma",
+   "ocean-beach",
+   "clairemont",
+   "university-city",
+   "san-diego"
+  ]
+ },
+ {
+  "slug": "point-loma",
+  "name": "Point Loma",
+  "region_tag": "Coastal San Diego • San Diego County",
+  "lead": "Point Loma is a peninsula community bounded by San Diego Bay and the Pacific Ocean, combining historic bayside neighborhoods, ocean-bluff streets, and the revitalized Liberty Station district. Its distinct pockets and strong sense of place make it one of San Diego's most established coastal areas.",
+  "market": "The peninsula supports a range of price points, from modest cottages to premier bayfront and ocean-bluff estates. La Playa and the bayside carry the highest values, while Sunset Cliffs commands premiums for ocean views and bluff proximity, and Roseville and Loma Portal offer more established housing. Liberty Station has added newer attached and mixed-use product to the market. View orientation, whether toward the bay or the ocean, is a defining value driver across the peninsula. Careful identification of the specific neighborhood pocket is essential given the range of values.",
+  "neighborhoods": [
+   "La Playa",
+   "Sunset Cliffs",
+   "Roseville",
+   "Loma Portal",
+   "Point Loma Heights",
+   "Wooded Area",
+   "Fleetridge",
+   "Liberty Station",
+   "Shelter Island area"
+  ],
+  "highlights": "Landmarks include Cabrillo National Monument, Sunset Cliffs Natural Park, Liberty Station, Shelter Island, and Point Loma High and Cabrillo elementary schools.",
+  "valuation": "Appraising Point Loma requires precise identification of the neighborhood pocket and the direction and quality of the view, since bay-facing La Playa and ocean-facing Sunset Cliffs behave as distinct submarkets. Bluff proximity, elevation, and historic character all factor into comparable selection.",
+  "zips": "92106, 92107",
+  "nearby": [
+   "ocean-beach",
+   "pacific-beach",
+   "coronado",
+   "mission-hills",
+   "san-diego",
+   "la-jolla"
+  ]
+ },
+ {
+  "slug": "ocean-beach",
+  "name": "Ocean Beach",
+  "region_tag": "Coastal San Diego • San Diego County",
+  "lead": "Ocean Beach, on the western side of the Point Loma peninsula, is a beach community known for its bohemian character, historic pier, and eclectic housing stock. It retains a distinct village feel with a walkable commercial core along Newport Avenue.",
+  "market": "The neighborhood attracts buyers seeking an authentic beach lifestyle within walking distance of the sand and village amenities. Housing ranges from early beach cottages and bungalows to multi-unit properties and a smaller number of larger view homes on the surrounding hills. Proximity to the beach and pier, along with rental potential, supports pricing across the varied inventory. Lot size, unit configuration, and view orientation are meaningful sources of value variation. The area's older housing stock makes condition and renovation scope particularly important in the analysis.",
+  "neighborhoods": [
+   "North OB",
+   "South OB",
+   "Ocean Beach Cottage District",
+   "Sunset Cliffs border",
+   "Point Loma Heights",
+   "Newport Avenue village",
+   "West Point Loma Boulevard area",
+   "Voltaire corridor"
+  ],
+  "highlights": "Anchors include the Ocean Beach Pier, Newport Avenue, Robb Field, Dog Beach, and Ocean Beach Elementary within the community.",
+  "valuation": "Valuation in Ocean Beach emphasizes proximity to the beach and village, lot size, unit configuration, and the condition of an older, eclectic housing stock. Multi-unit and cottage properties require carefully matched comparables reflecting the neighborhood's distinct character.",
+  "zips": "92107",
+  "nearby": [
+   "point-loma",
+   "pacific-beach",
+   "coronado",
+   "mission-hills",
+   "san-diego",
+   "la-jolla"
+  ]
+ },
+ {
+  "slug": "coronado",
+  "name": "Coronado",
+  "region_tag": "Coastal San Diego • San Diego County",
+  "lead": "Coronado is an incorporated island city across the bay from downtown San Diego, connected by the Coronado Bridge and known for its resort setting, historic architecture, and pristine beaches. Its small-town atmosphere and strong military presence give it a character distinct from the surrounding region.",
+  "market": "Coronado occupies a premier position in the San Diego coastal market, with limited supply and enduring demand sustaining high values. The housing stock includes historic homes in the Village, waterfront properties in the Cays, and a range of condominiums and resort residences. Bay and ocean views, waterfront frontage, and proximity to the beach and golf course are primary value drivers. The presence of Naval Air Station North Island and a stable, affluent buyer base supports consistent demand. Precise attention to view orientation, lot position, and historic status is essential to a credible analysis.",
+  "neighborhoods": [
+   "The Village",
+   "Coronado Cays",
+   "Coronado Shores",
+   "Country Club",
+   "Green Turtle Road area",
+   "First Street bayfront",
+   "Ocean Boulevard oceanfront",
+   "Glorietta Bay"
+  ],
+  "highlights": "Landmarks include the Hotel del Coronado, Coronado Beach, the Coronado Bridge, Glorietta Bay, and Coronado High and Village elementary schools.",
+  "valuation": "Appraising in Coronado requires close analysis of view orientation, waterfront or oceanfront position, and historic designation, along with the distinctions among the Village, Cays, and Shores submarkets. Limited turnover makes precise, well-matched comparables particularly important.",
+  "zips": "92118",
+  "nearby": [
+   "point-loma",
+   "imperial-beach",
+   "national-city",
+   "san-diego",
+   "ocean-beach",
+   "chula-vista"
+  ]
+ },
+ {
+  "slug": "carmel-valley",
+  "name": "Carmel Valley",
+  "region_tag": "North City of San Diego • San Diego County",
+  "lead": "Carmel Valley is a planned community in the northwest corner of the City of San Diego, set between Interstate 5 and the coastal foothills just east of Del Mar. It pairs walkable village centers and top-rated schools with quick freeway access to the region's coastal and technology employment corridors.",
+  "market": "Carmel Valley is one of the more consistently active submarkets in northern San Diego, anchored by detached single-family homes along with a substantial supply of townhomes and condominiums. Buyer demand is driven by school reputation, proximity to the coast, and access to employment along the I-5 corridor. Newer inventory in Pacific Highlands Ranch trends toward larger production homes, while the original core built through the 1980s and 1990s offers more established streetscapes. Price points vary widely by subdivision, product type, and view orientation, and turnover is generally steady across market cycles.",
+  "neighborhoods": [
+   "Pacific Highlands Ranch",
+   "Torrey Hills",
+   "Del Mar Mesa",
+   "Carmel Country Highlands",
+   "Rancho Pacifica",
+   "Torrey Del Mar",
+   "Village Center",
+   "Carmel Del Mar"
+  ],
+  "highlights": "Landmarks include Torrey Pines High School, Canyon Crest Academy, the One Paseo mixed-use center, and the trails of Los Peñasquitos Canyon Preserve.",
+  "valuation": "Accurate valuation depends on isolating the specific subdivision, home age, and product type, since coastal proximity, view, and school boundaries can create meaningful differences within the same ZIP. Homeowners association structures and, in newer villages, community facilities financing should be confirmed for comparability.",
+  "zips": "92130",
+  "nearby": [
+   "del-mar",
+   "del-sur",
+   "rancho-penasquitos",
+   "san-diego",
+   "solana-beach"
+  ]
+ },
+ {
+  "slug": "del-sur",
+  "name": "Del Sur",
+  "region_tag": "North City of San Diego • San Diego County",
+  "lead": "Del Sur is a master-planned community in northern San Diego, developed beginning in the mid-2000s around a network of parks, trails, and preserved open space. It sits between 4S Ranch to the north and Santaluz to the south, within the 92127 ZIP code.",
+  "market": "Del Sur's housing stock is predominantly newer detached single-family homes, with a range of townhomes and smaller-lot products across its individual villages. Demand is supported by highly regarded schools, community amenities, and a cohesive planned layout. Because much of the community was built within a compressed timeframe, homes are relatively uniform in age and condition, which tends to narrow the range of comparable sales. Pricing reflects lot size, view, and finish level within each village.",
+  "neighborhoods": [
+   "Cortez",
+   "Sentinels",
+   "Bella Lago",
+   "Andalusia",
+   "Verrazzano",
+   "Toscana",
+   "Auberge",
+   "Sablewood"
+  ],
+  "highlights": "The community centers on Del Sur Town Square, multiple neighborhood parks and swim clubs, and schools within the Poway Unified School District such as Del Sur Elementary.",
+  "valuation": "As a newer master-planned community, Del Sur carries Mello-Roos community facilities district (CFD) special assessments, which vary by village and materially affect total ownership cost and comparability. Verifying the applicable CFD, HOA dues, and any remaining bond terms is essential to a supportable valuation.",
+  "zips": "92127",
+  "nearby": [
+   "4s-ranch",
+   "santaluz",
+   "rancho-bernardo",
+   "carmel-valley",
+   "rancho-santa-fe"
+  ]
+ },
+ {
+  "slug": "4s-ranch",
+  "name": "4S Ranch",
+  "region_tag": "North City of San Diego • San Diego County",
+  "lead": "4S Ranch is a master-planned community in northern San Diego that took shape through the early and mid-2000s around a central commercial district and abundant recreation. It lies just north and east of Del Sur within the 92127 ZIP code.",
+  "market": "The 4S Ranch market spans condominiums, townhomes, and detached single-family homes, giving it a broader range of entry points than its neighboring communities. Convenience-oriented shopping, parks, and access to Poway Unified schools sustain steady buyer interest. Because the community was largely built within a short span, comparable sales tend to cluster by product type and village. Values respond to lot premiums, view exposure, and proximity to the commercial core.",
+  "neighborhoods": [
+   "Tereva",
+   "Amantea",
+   "Bella Vita",
+   "Monte Vista",
+   "Palermo",
+   "Torino",
+   "Sonata",
+   "Vista Del Mar"
+  ],
+  "highlights": "Anchors include the 4S Commons Town Center, 4S Ranch Sports Park, the 4S Ranch Library, and Monterey Ridge Elementary within Poway Unified.",
+  "valuation": "As a newer master-planned area, 4S Ranch is subject to Mello-Roos community facilities district (CFD) assessments that differ by subdivision and should be confirmed for each subject. HOA structures and product type (attached versus detached) are the primary drivers of comparable selection.",
+  "zips": "92127",
+  "nearby": [
+   "del-sur",
+   "santaluz",
+   "rancho-bernardo",
+   "rancho-penasquitos",
+   "poway"
+  ]
+ },
+ {
+  "slug": "santaluz",
+  "name": "Santaluz",
+  "region_tag": "North City of San Diego • San Diego County",
+  "lead": "Santaluz is a guard-gated luxury community in northern San Diego, developed in the early 2000s across roughly 3,800 acres with a large share preserved as open space. It sits within the 92127 ZIP code, adjacent to Rancho Santa Fe and Fairbanks Ranch.",
+  "market": "Santaluz occupies the upper tier of the area's housing market, with custom and semi-custom estates alongside village-style homes and casitas built around a golf course and clubhouse. Sales volume is comparatively low given the limited number of residences, and price ranges are wide due to variation in lot size, custom finish, and view. Buyers are typically drawn by privacy, the gated setting, and golf-course access. Thin turnover means comparable evidence often must be supplemented with careful adjustment analysis.",
+  "neighborhoods": [
+   "The Estates",
+   "The Village",
+   "Casitas",
+   "The Ridge",
+   "The Summit",
+   "Fairways",
+   "The Groves",
+   "The Meadows"
+  ],
+  "highlights": "The community centers on the Santaluz Club, an 18-hole golf course, guard-gated entries, and extensive preserved open space and trail systems.",
+  "valuation": "As a newer guard-gated master-planned community, Santaluz carries Mello-Roos community facilities district (CFD) assessments and club membership considerations that bear on ownership cost and marketability. Limited sales volume and wide custom-quality variation make paired-sales and adjustment analysis particularly important.",
+  "zips": "92127",
+  "nearby": [
+   "del-sur",
+   "4s-ranch",
+   "rancho-santa-fe",
+   "fairbanks-ranch",
+   "rancho-bernardo"
+  ]
+ },
+ {
+  "slug": "rancho-bernardo",
+  "name": "Rancho Bernardo",
+  "region_tag": "North City of San Diego • San Diego County",
+  "lead": "Rancho Bernardo is an established master-planned community in northern San Diego straddling Interstate 15, with development spanning from the 1960s through recent decades. It includes both all-ages neighborhoods and well-known active-adult enclaves.",
+  "market": "The Rancho Bernardo market is diverse, ranging from original single-story ranch homes to newer hillside developments, condominiums, and dedicated 55-and-older communities. This age and product spread produces a broad set of comparables, so careful segmentation by era and neighborhood is important. Demand is supported by employment in the surrounding business park, mature landscaping, and generally strong schools. Active-adult neighborhoods trade on their own dynamics and age-restriction rules.",
+  "neighborhoods": [
+   "Westwood",
+   "Bernardo Heights",
+   "Oaks North",
+   "Seven Oaks",
+   "The Trails",
+   "Rancho Bernardo Estates",
+   "Casa de las Campanas vicinity",
+   "High Country"
+  ],
+  "highlights": "Notable features include the Rancho Bernardo Inn, Webb Park and Lake Hodges vicinity, Bernardo Heights Middle School, and the Rancho Bernardo Community Park.",
+  "valuation": "Valuation requires distinguishing between all-ages and age-restricted neighborhoods, since 55-and-older communities are not comparable to standard housing. Home age spans several decades, so effective age, updating, and HOA structure should be verified for each subject.",
+  "zips": "92127, 92128",
+  "nearby": [
+   "4s-ranch",
+   "del-sur",
+   "rancho-penasquitos",
+   "poway",
+   "escondido"
+  ]
+ },
+ {
+  "slug": "rancho-penasquitos",
+  "name": "Rancho Peñasquitos",
+  "region_tag": "North City of San Diego • San Diego County",
+  "lead": "Rancho Peñasquitos, often called PQ, is a residential community in northern San Diego set among canyons and rolling terrain east of Interstate 15. It is prized for its family orientation, trail access, and Poway Unified schools.",
+  "market": "The Rancho Peñasquitos market is dominated by detached single-family homes built largely from the 1970s through the 1990s, with pockets of townhomes and condominiums. Buyer demand is steady and value-driven, reflecting the area's schools and relative affordability compared with coastal North City communities. Comparable selection benefits from the area's consistent housing stock, though canyon-rim lots and view parcels command premiums. Updating and effective age are frequent points of adjustment.",
+  "neighborhoods": [
+   "Park Village",
+   "Canyonside",
+   "The Highlands",
+   "Torrey Highlands",
+   "Rolling Hills",
+   "Sundance",
+   "Ridgewood",
+   "Meadowbrook"
+  ],
+  "highlights": "Landmarks include Los Peñasquitos Canyon Preserve, Westview High School, Canyonside Community Park, and Black Mountain Open Space Park.",
+  "valuation": "With a housing stock concentrated in a few decades, effective age, remodeling, and lot topography are the main valuation variables. View and canyon-rim exposure warrant careful bracketing, and school-boundary placement can influence marketability.",
+  "zips": "92129",
+  "nearby": [
+   "rancho-bernardo",
+   "4s-ranch",
+   "carmel-valley",
+   "mira-mesa",
+   "scripps-ranch"
+  ]
+ },
+ {
+  "slug": "scripps-ranch",
+  "name": "Scripps Ranch",
+  "region_tag": "North City of San Diego • San Diego County",
+  "lead": "Scripps Ranch is a residential community in northern San Diego known for its tree-lined streets, proximity to Miramar Reservoir, and a strong family orientation. It sits east of Interstate 15 within the 92131 ZIP code.",
+  "market": "Scripps Ranch is predominantly a market of detached single-family homes, with development ranging from the original 1970s neighborhoods to newer construction in Scripps Highlands and surrounding areas. The community's schools and wooded character support durable demand. Comparable analysis typically segments by construction era and by proximity to the reservoir and open space. Larger newer homes at the eastern edge trade at a premium to the original core.",
+  "neighborhoods": [
+   "The Old Grove",
+   "Scripps Highlands",
+   "Miramar Ranch North",
+   "Legacy",
+   "Whispering Ridge",
+   "Aviara vicinity",
+   "Stonebridge Estates",
+   "The Ridges"
+  ],
+  "highlights": "Anchors include Miramar Reservoir, Scripps Ranch High School, Hoyt Park, and the annual community events centered on the area's parks and lake.",
+  "valuation": "Valuation hinges on separating original-era homes from newer eastern construction, as size, quality, and effective age differ substantially. Reservoir and open-space proximity, along with any community facilities financing on newer tracts, should be verified.",
+  "zips": "92131",
+  "nearby": [
+   "mira-mesa",
+   "sabre-springs",
+   "rancho-penasquitos",
+   "tierrasanta",
+   "poway"
+  ]
+ },
+ {
+  "slug": "sabre-springs",
+  "name": "Sabre Springs",
+  "region_tag": "North City of San Diego • San Diego County",
+  "lead": "Sabre Springs is a residential community in northern San Diego located east of Interstate 15, between Poway and Scripps Ranch. It offers a suburban setting with convenient freeway access and Poway Unified schools.",
+  "market": "The Sabre Springs market consists mainly of detached single-family homes and townhomes built largely from the late 1980s through the 1990s. Its housing stock is relatively consistent in age, which supports straightforward comparable selection. Demand is driven by commuter access along I-15, neighborhood parks, and school reputation. Value differences typically stem from lot size, condition, and product type rather than dramatic locational swings.",
+  "neighborhoods": [
+   "Stonebridge",
+   "The Enclave",
+   "Creekside",
+   "Morningside",
+   "The Pinnacle",
+   "Sabre Hills",
+   "Springhurst",
+   "The Villages"
+  ],
+  "highlights": "Features include Sabre Springs Community Park, the Sabre Springs/Peñasquitos Transit Station, and schools within the Poway Unified School District.",
+  "valuation": "With a housing stock concentrated in a narrow construction window, condition, updating, and product type drive most adjustments. HOA structures and any community facilities assessments should be confirmed for townhome and planned-development subjects.",
+  "zips": "92128",
+  "nearby": [
+   "scripps-ranch",
+   "poway",
+   "rancho-bernardo",
+   "rancho-penasquitos",
+   "mira-mesa"
+  ]
+ },
+ {
+  "slug": "mira-mesa",
+  "name": "Mira Mesa",
+  "region_tag": "North City of San Diego • San Diego County",
+  "lead": "Mira Mesa is a large, diverse residential community in northern San Diego bordered by employment centers, Marine Corps Air Station Miramar, and major freeways. It offers one of the more accessible price points in the North City area.",
+  "market": "Mira Mesa's housing stock is extensive and varied, spanning detached single-family homes, townhomes, and condominiums built largely from the 1970s onward. The community's relative affordability, central location, and access to technology and biotech employment sustain strong and steady demand. The sheer volume of sales provides ample comparable evidence, though careful matching by product type, era, and subdivision is important. Proximity to Miramar and to the I-15 and SR-56 corridors can influence marketability.",
+  "neighborhoods": [
+   "Mira Mesa Highlands",
+   "Westview",
+   "Sorrento Valley vicinity",
+   "Canyon Ridge",
+   "Parkdale",
+   "Village Green",
+   "Camino Ruiz",
+   "Maddox"
+  ],
+  "highlights": "Landmarks include the Mira Mesa Community Park, Mira Mesa High School, MCAS Miramar to the south, and the shops along Mira Mesa Boulevard.",
+  "valuation": "The wide range of product types and construction eras makes precise comparable matching the central valuation task. Proximity to MCAS Miramar and related noise contours, along with HOA structures on attached products, should be considered.",
+  "zips": "92126",
+  "nearby": [
+   "scripps-ranch",
+   "rancho-penasquitos",
+   "clairemont",
+   "university-city",
+   "san-diego"
+  ]
+ },
+ {
+  "slug": "san-marcos",
+  "name": "San Marcos",
+  "region_tag": "North County Inland • San Diego County",
+  "lead": "San Marcos is a North County Inland city centered on a growing university presence and a revitalized downtown district. It blends established neighborhoods with newer master-planned developments along the State Route 78 corridor.",
+  "market": "The San Marcos market ranges from older in-town homes to substantial newer master-planned communities on the surrounding hillsides, producing a broad spread of ages and price points. Demand is supported by California State University San Marcos, employment growth, and relative value compared with coastal North County. Newer hillside communities feature larger production homes, while established areas offer more modest, mature housing. Comparable selection should account for both construction era and elevation, as view lots command premiums.",
+  "neighborhoods": [
+   "San Elijo Hills",
+   "Lake San Marcos",
+   "Rancho Coronado",
+   "Discovery Hills",
+   "Twin Oaks Valley",
+   "Santa Fe Hills",
+   "Old California vicinity",
+   "Rancho Dorado"
+  ],
+  "highlights": "Anchors include California State University San Marcos, Lake San Marcos, Double Peak Park, and the shops and restaurants of the San Marcos Restaurant Row and downtown district.",
+  "valuation": "Valuation must distinguish newer master-planned communities, which often carry Mello-Roos community facilities district assessments, from older in-town housing. Elevation, view, and HOA structure are meaningful adjustment factors across the city's varied terrain.",
+  "zips": "92069, 92078",
+  "nearby": [
+   "vista",
+   "escondido",
+   "carlsbad",
+   "encinitas",
+   "oceanside"
+  ]
+ },
+ {
+  "slug": "vista",
+  "name": "Vista",
+  "region_tag": "North County Inland • San Diego County",
+  "lead": "Vista is a North County Inland city set in the rolling terrain between the coast and the inland valleys, known for its mild microclimate and a mix of established and semi-rural neighborhoods. It offers relative affordability with quick access to coastal Carlsbad and Oceanside.",
+  "market": "The Vista market is diverse, spanning mid-century in-town homes, hillside single-family neighborhoods, condominiums, and semi-rural parcels on the city's fringes. This variety, along with a range of lot sizes and zoning, requires careful comparable segmentation. Buyer demand reflects value relative to the coast, the city's climate, and a revitalized downtown. Larger view lots and acreage parcels trade on distinct dynamics from tract housing.",
+  "neighborhoods": [
+   "Shadowridge",
+   "Buena Creek",
+   "Vista Village",
+   "Foothill Estates",
+   "Brengle Terrace vicinity",
+   "Alta Vista",
+   "Warmlands",
+   "Jeffries Ranch vicinity"
+  ],
+  "highlights": "Landmarks include the Moonlight Amphitheatre in Brengle Terrace Park, the Vista Village downtown district, the Antique Gas and Steam Engine Museum, and the Alta Vista Botanical Gardens.",
+  "valuation": "The city's blend of tract, hillside, and semi-rural properties makes lot size, zoning, and view central to valuation. Effective age and updating vary widely given the range of construction eras, and acreage or view parcels warrant careful bracketing.",
+  "zips": "92081, 92083, 92084",
+  "nearby": [
+   "san-marcos",
+   "oceanside",
+   "carlsbad",
+   "escondido",
+   "bonsall"
+  ]
+ },
+ {
+  "slug": "escondido",
+  "name": "Escondido",
+  "region_tag": "North County Inland • San Diego County",
+  "lead": "Escondido is a North County Inland city anchored by a historic downtown and surrounded by valleys, orchards, and rolling hills. It offers a wide range of housing from urban in-town neighborhoods to semi-rural estates and equestrian parcels.",
+  "market": "The Escondido market is one of the most varied in North County, spanning historic bungalows, mid-century tracts, newer master-planned communities, condominiums, and rural acreage. This breadth demands disciplined comparable selection by neighborhood, era, and lot character. Demand is supported by relative affordability, arts and cultural amenities, and access to Interstate 15. Outlying areas such as Hidden Meadows and the eastern valleys trade as semi-rural and equestrian submarkets distinct from the urban core.",
+  "neighborhoods": [
+   "Old Escondido Historic District",
+   "Hidden Meadows",
+   "The Vineyard",
+   "Rancho San Pasqual",
+   "Harmony Grove vicinity",
+   "Felicita",
+   "Lake Hodges vicinity",
+   "Eureka Springs"
+  ],
+  "highlights": "Anchors include the California Center for the Arts Escondido, Grape Day Park, the San Diego Zoo Safari Park to the east, Daley Ranch open space, and Kit Carson Park.",
+  "valuation": "Escondido's range from dense in-town housing to rural acreage makes neighborhood, zoning, and lot size the primary valuation drivers. Newer master-planned areas may carry Mello-Roos assessments, and semi-rural or equestrian parcels require comparables matched on land utility and improvements.",
+  "zips": "92025, 92026, 92027",
+  "nearby": [
+   "san-marcos",
+   "vista",
+   "valley-center",
+   "poway",
+   "rancho-bernardo"
+  ]
+ },
+ {
+  "slug": "poway",
+  "name": "Poway",
+  "region_tag": "North County Inland • San Diego County",
+  "lead": "Poway is an inland North County city that markets itself as \"The City in the Country,\" combining suburban neighborhoods with semi-rural and equestrian areas. It is well regarded for its highly rated Poway Unified schools and its balance of open space and residential development.",
+  "market": "The Poway market ranges from established suburban tracts to large semi-rural and equestrian parcels, giving it a wide spread of lot sizes and price points. Its strong school reputation and country character sustain steady demand. Comparable selection must carefully separate standard tract housing from acreage and horse properties, which trade on land utility and improvements. View lots and larger parcels in areas such as Green Valley and the eastern hills command notable premiums.",
+  "neighborhoods": [
+   "Green Valley",
+   "Bridlewood",
+   "The Heritage",
+   "Old Coach Estates",
+   "Stone Canyon",
+   "Garden Road",
+   "Poway Valley",
+   "Sycamore Canyon vicinity"
+  ],
+  "highlights": "Landmarks include Lake Poway, Blue Sky Ecological Reserve, Old Poway Park, the Poway Center for the Performing Arts, and the highly regarded Poway Unified School District.",
+  "valuation": "Valuation requires distinguishing suburban tract homes from equestrian and acreage parcels, since land use, zoning, and improvements differ significantly. View, lot size, and usable acreage are central adjustment factors in the semi-rural neighborhoods.",
+  "zips": "92064",
+  "nearby": [
+   "rancho-bernardo",
+   "sabre-springs",
+   "scripps-ranch",
+   "escondido",
+   "ramona"
+  ]
+ },
+ {
+  "slug": "carlsbad",
+  "name": "Carlsbad",
+  "region_tag": "North County Coastal • San Diego County",
+  "lead": "Carlsbad spreads across four distinct quadrants, from the historic Village near the coast to the master-planned communities of La Costa and Aviara inland. The city pairs beach-town roots with resort golf, lagoon preserves, and a deep inventory of newer production housing.",
+  "market": "Carlsbad supports one of North County's broadest price ranges, from vintage cottages and ranch homes in Olde Carlsbad and the Barrio to gated resort estates near the Aviara and Omni La Costa clubs. The southeastern 92009 zip code carries dense master-planned tracts such as La Costa Oaks, La Costa Greens, and Bressi Ranch, while 92010 to the northeast offers newer larger-floor-plan construction. Coastal 92008 and 92011 command premiums for ocean proximity, lagoon views, and resort amenities. Buyer demand stays consistent given the school reputation and freeway access, and product varies widely by tract age and quadrant.",
+  "neighborhoods": [
+   "Olde Carlsbad",
+   "The Village",
+   "Aviara",
+   "La Costa Oaks",
+   "La Costa Greens",
+   "La Costa Valley",
+   "Bressi Ranch",
+   "Calavera Hills",
+   "Robertson Ranch",
+   "Rancho Carrillo"
+  ],
+  "highlights": "Landmarks include the Omni La Costa Resort & Spa, Park Hyatt Aviara and its Arnold Palmer golf course, Batiquitos Lagoon Nature Preserve, and the beaches along Carlsbad Boulevard.",
+  "valuation": "Careful attention to quadrant, tract, and view is essential in Carlsbad, since values shift sharply between the coastal zip codes and the inland master-planned communities. HOA and Mello-Roos obligations in the newer tracts also warrant close analysis.",
+  "zips": "92008, 92009, 92010, 92011",
+  "nearby": [
+   "oceanside",
+   "encinitas",
+   "vista",
+   "san-marcos"
+  ]
+ },
+ {
+  "slug": "oceanside",
+  "name": "Oceanside",
+  "region_tag": "North County Coastal • San Diego County",
+  "lead": "Oceanside anchors the northern coast of San Diego County with a historic pier, working harbor, and neighborhoods that range from beach cottages to sprawling hillside tracts. Its adjacency to Camp Pendleton and comparatively attainable pricing keep the market active across a wide buyer base.",
+  "market": "Oceanside offers the coast's most diverse and often most attainable housing, from Fire Mountain custom homes and South Oceanside bungalows to large production tracts in Rancho Del Oro and Ivey Ranch. The coastal 92054 zip code commands the strongest premiums, while central 92056 and northern 92057 carry the bulk of mid-priced inventory. Gated waterfront enclaves such as Bristol Cove and the private beach colony of St. Malo represent the high end. Ongoing downtown redevelopment near the pier has lifted values in the core, and military-related demand adds a steady rental and resale layer throughout the city.",
+  "neighborhoods": [
+   "Fire Mountain",
+   "South Oceanside",
+   "Rancho Del Oro",
+   "Ivey Ranch",
+   "Morro Hills",
+   "Del Oro Hills",
+   "Bristol Cove",
+   "St. Malo",
+   "Jeffries Ranch"
+  ],
+  "highlights": "Landmarks include the Oceanside Pier, Oceanside Harbor, Mission San Luis Rey, Guajome Regional Park, and the Buena Vista Lagoon.",
+  "valuation": "Values in Oceanside vary considerably by proximity to the coast, so distance to the beach and view exposure are primary considerations. Older coastal cottages and newer inland tracts require different comparable pools even within the same city.",
+  "zips": "92054, 92056, 92057, 92058",
+  "nearby": [
+   "carlsbad",
+   "vista",
+   "san-marcos",
+   "fallbrook"
+  ]
+ },
+ {
+  "slug": "encinitas",
+  "name": "Encinitas",
+  "region_tag": "North County Coastal • San Diego County",
+  "lead": "Encinitas blends a laid-back surf culture along Highway 101 with the semi-rural estate character of Olivenhain to the east. Renowned beaches, flower-growing heritage, and strong schools sustain persistent demand across its distinct communities.",
+  "market": "Encinitas commands premium coastal pricing, particularly in Old Encinitas and Leucadia where proximity to Moonlight Beach and the 101 corridor drives value. Newer master-planned housing concentrates in Encinitas Ranch and New Encinitas, while Olivenhain offers larger lots and equestrian-friendly estates. The city's inventory ranges from beach cottages and condominiums to custom hillside homes, and limited supply relative to demand keeps competition high. School reputation and walkability to the coast are consistent value drivers throughout.",
+  "neighborhoods": [
+   "Old Encinitas",
+   "New Encinitas",
+   "Leucadia",
+   "Olivenhain",
+   "Encinitas Ranch",
+   "Village Park",
+   "Quail Ridge",
+   "Devonshire",
+   "The Links"
+  ],
+  "highlights": "Landmarks include Moonlight Beach, Swami's surf break and the Self-Realization Fellowship, the San Diego Botanic Garden, and San Dieguito Academy.",
+  "valuation": "The contrast between dense coastal parcels and the acreage estates of Olivenhain requires distinct comparable analysis within the same city. View, beach proximity, and lot size are the dominant adjustments in Encinitas.",
+  "zips": "92024",
+  "nearby": [
+   "cardiff-by-the-sea",
+   "carlsbad",
+   "solana-beach",
+   "rancho-santa-fe"
+  ]
+ },
+ {
+  "slug": "cardiff-by-the-sea",
+  "name": "Cardiff-by-the-Sea",
+  "region_tag": "North County Coastal • San Diego County",
+  "lead": "Cardiff-by-the-Sea is a compact seaside community within Encinitas, known for its walkable town center, surf breaks, and the whimsical Cardiff Kook statue. Its lagoon-and-ocean setting and small-town scale command some of the area's strongest coastal premiums.",
+  "market": "Cardiff-by-the-Sea carries its own zip code and a tightly held inventory that ranges from beach bungalows to view homes on the surrounding hillsides. The Composer District and the Walking District west of I-5 command premiums for ocean proximity and town-center access, while homes above San Elijo Lagoon trade on their views. Limited supply and enduring demand keep pricing firm, and even modest lots can command notable value given the location. Older cottages are frequently redeveloped, adding a renovation and new-construction layer to the market.",
+  "neighborhoods": [
+   "Composer District",
+   "Walking District",
+   "Cardiff Cove",
+   "Cardiff Heights",
+   "Rossini Heights",
+   "The Summit",
+   "Olde Cardiff"
+  ],
+  "highlights": "Landmarks include Cardiff State Beach, San Elijo State Beach, the San Elijo Lagoon Ecological Reserve, the Cardiff Kook statue, and Ada Harris Elementary.",
+  "valuation": "View quality, ocean proximity, and position within the Composer or Walking districts drive value in Cardiff, where small lot differences carry outsized weight. The scarcity of sales in this small community can require reaching to adjacent Encinitas comparables.",
+  "zips": "92007",
+  "nearby": [
+   "encinitas",
+   "solana-beach",
+   "del-mar",
+   "carlsbad"
+  ]
+ },
+ {
+  "slug": "solana-beach",
+  "name": "Solana Beach",
+  "region_tag": "North County Coastal • San Diego County",
+  "lead": "Solana Beach is a small coastal city bracketed by bluffs to the west and the master-planned Lomas Santa Fe community to the east. Its Cedros Avenue design district, rail access, and beach parks give it a distinctive, connected character.",
+  "market": "Solana Beach spans bluff-top view homes and beach-adjacent condominiums to the planned neighborhoods of Lomas Santa Fe east of I-5. Ocean-view properties and those near Fletcher Cove command the highest premiums, while the golf-course community around Lomas Santa Fe Country Club offers larger single-family homes. The historic La Colonia de Eden Gardens neighborhood adds attainable inventory to an otherwise high-priced market. Constrained supply and coastal desirability sustain strong values, and the walkable Cedros design district reinforces the city's appeal.",
+  "neighborhoods": [
+   "Lomas Santa Fe",
+   "Lomas Santa Fe Estates",
+   "La Colonia de Eden Gardens",
+   "Isla Verde",
+   "Highland Estates",
+   "Del Mar Shores Terrace",
+   "Villas of Lomas Santa Fe"
+  ],
+  "highlights": "Landmarks include Fletcher Cove Beach Park, the Cedros Avenue Design District, the Belly Up Tavern, the Solana Beach Coaster station, and Lomas Santa Fe Country Club.",
+  "valuation": "Ocean views and bluff proximity produce steep value gradients within a short distance, making view analysis central in Solana Beach. The mix of condominiums, planned tracts, and older cottages calls for careful comparable selection by product type.",
+  "zips": "92075",
+  "nearby": [
+   "del-mar",
+   "cardiff-by-the-sea",
+   "encinitas",
+   "rancho-santa-fe"
+  ]
+ },
+ {
+  "slug": "del-mar",
+  "name": "Del Mar",
+  "region_tag": "North County Coastal • San Diego County",
+  "lead": "Del Mar is an exclusive seaside village famous for its racetrack, fairgrounds, and bluff-top ocean views. Its small footprint and strict development character make it one of the county's most sought-after and highest-priced coastal markets.",
+  "market": "Del Mar's market is defined by scarcity and location, with the Beach Colony, Olde Del Mar village, and bluff-top parcels commanding some of the region's highest per-square-foot pricing. Ocean views, walkability to the village, and lot position drive value more than home size in many cases. Del Mar Heights on the eastern mesa offers newer homes, though many of those parcels carry the 92130 zip code rather than 92014. Inventory is thin and turnover limited, so individual sales carry significant weight in establishing value.",
+  "neighborhoods": [
+   "Olde Del Mar",
+   "Beach Colony",
+   "Del Mar Heights",
+   "Crest Canyon",
+   "Del Mar Terrace",
+   "Del Mar Bluffs"
+  ],
+  "highlights": "Landmarks include the Del Mar Racetrack and Fairgrounds, Powerhouse and Seagrove Parks, Del Mar City Beach, and the Torrey Pines State Reserve to the south.",
+  "valuation": "Ocean view and proximity to the village are the dominant value factors in Del Mar, often outweighing gross living area. Given limited sales volume, appraisers frequently extend the comparable search and weigh view differences carefully.",
+  "zips": "92014",
+  "nearby": [
+   "solana-beach",
+   "cardiff-by-the-sea",
+   "carmel-valley",
+   "rancho-santa-fe"
+  ]
+ },
+ {
+  "slug": "rancho-santa-fe",
+  "name": "Rancho Santa Fe",
+  "region_tag": "North County Rural & Estates • San Diego County",
+  "lead": "Rancho Santa Fe is a prestigious estate community built around the original Covenant, an association-governed enclave established in 1928 with an art jury to preserve its character. Sprawling acreage, mature landscaping, and gated luxury define one of the county's most exclusive markets.",
+  "market": "Rancho Santa Fe centers on large-lot custom estates, with the historic Covenant setting the tone for architectural review and minimum acreage. Surrounding guard-gated communities such as The Bridges, The Farms, and Cielo carry the prestige of the Rancho Santa Fe name while offering their own club amenities. Values are driven by lot size, privacy, view, and estate quality, and the market operates largely independent of production-housing trends. Sales are relatively infrequent given the exclusivity, and each property tends to be highly individual.",
+  "neighborhoods": [
+   "The Covenant",
+   "The Bridges",
+   "The Farms",
+   "Cielo",
+   "Del Rayo Estates",
+   "Rancho Del Lago",
+   "The Groves",
+   "Fairbanks Ranch"
+  ],
+  "highlights": "Landmarks include the Rancho Santa Fe Golf Club, the historic village and Inn at Rancho Santa Fe, the Osuna Ranch adobe, and the Rancho Santa Fe School.",
+  "valuation": "Estate valuation here hinges on acreage, view, privacy, and custom quality, with wide variation between the Covenant and the outlying gated communities. Many parcels are large enough that site value and improvement quality require individualized analysis rather than direct tract comparison.",
+  "zips": "92067, 92091",
+  "nearby": [
+   "fairbanks-ranch",
+   "encinitas",
+   "solana-beach",
+   "escondido"
+  ]
+ },
+ {
+  "slug": "fairbanks-ranch",
+  "name": "Fairbanks Ranch",
+  "region_tag": "North County Rural & Estates • San Diego County",
+  "lead": "Fairbanks Ranch is a guard-gated estate community of roughly 1,200 acres, developed in the 1980s on land once tied to the Douglas Fairbanks family. Its custom homes on large lots, private lakes, and equestrian heritage place it among the region's premier luxury enclaves.",
+  "market": "Fairbanks Ranch consists of custom estates on generous lots within a fully gated, association-governed community divided into north and south sections. Values are driven by lot size, home quality, view, and the community's privacy and amenities, including tennis, equestrian facilities, and private lakes. The market functions much like neighboring Rancho Santa Fe, with individualized, relatively infrequent sales at the upper end of the price spectrum. Buyers are drawn by security, acreage, and proximity to Del Mar and the coast.",
+  "neighborhoods": [
+   "Fairbanks Ranch North",
+   "Fairbanks Ranch South",
+   "Fairbanks Country Club estates",
+   "Lakeside custom homes",
+   "The Estates at Fairbanks Ranch",
+   "Fairbanks Highlands"
+  ],
+  "highlights": "Landmarks include the Fairbanks Ranch Country Club, the community's private lakes and equestrian center, and proximity to the Del Mar Fairgrounds and San Dieguito River trails.",
+  "valuation": "As a gated custom-estate community, Fairbanks Ranch requires analysis of lot size, quality, and view, with limited sales often drawing comparables from adjacent Rancho Santa Fe communities. HOA structure and amenity access are meaningful value considerations.",
+  "zips": "92067",
+  "nearby": [
+   "rancho-santa-fe",
+   "del-mar",
+   "solana-beach",
+   "carmel-valley"
+  ]
+ },
+ {
+  "slug": "fallbrook",
+  "name": "Fallbrook",
+  "region_tag": "North County Rural & Estates • San Diego County",
+  "lead": "Fallbrook is an unincorporated hillside community known as the Avocado Capital of the World, set among rolling groves and large rural parcels. Its blend of working agriculture, gated estates, and horse properties gives it a distinctly rural character within North County.",
+  "market": "Fallbrook's market is dominated by acreage properties, from small ranchettes to twenty-plus-acre grove estates, alongside more conventional homes in areas like Gird Valley and Live Oak Estates. Guard-gated Rolling Hills and hillside custom homes represent the upper tier, while working avocado and citrus groves add agricultural value to many parcels. Most outlying properties rely on private wells and onsite septic, and water cost is a recurring consideration given district rates. Pricing spans a wide range driven by acreage, view, grove production, and improvement quality.",
+  "neighborhoods": [
+   "Gird Valley",
+   "Morro Hills",
+   "Rolling Hills",
+   "Olive Hill",
+   "Live Oak Estates",
+   "De Luz",
+   "Citro",
+   "Lake Rancho Viejo",
+   "Bella Vista Estates"
+  ],
+  "highlights": "Landmarks include Live Oak County Park, the Los Jilgueros Preserve, Monserate Mountain Preserve, and Fallbrook High School.",
+  "valuation": "Acreage, view, water availability, and grove production drive value in Fallbrook, and appraisals should account for well and septic condition, usable versus steep terrain, and any income from producing groves. Site value on large rural parcels often requires paired analysis given the range of lot sizes.",
+  "zips": "92028",
+  "nearby": [
+   "bonsall",
+   "rainbow",
+   "oceanside",
+   "vista"
+  ]
+ },
+ {
+  "slug": "bonsall",
+  "name": "Bonsall",
+  "region_tag": "North County Rural & Estates • San Diego County",
+  "lead": "Bonsall is a rural, equestrian-oriented community along the San Luis Rey River valley, prized for its acreage estates, groves, and horse properties. Its quiet setting between Fallbrook and Vista keeps it firmly in the country-living category.",
+  "market": "Bonsall centers on large-lot properties, gated equestrian estates, and grove parcels, with subdivisions such as Saratoga Estates and Lake Vista Estates anchoring the higher end. The area is a leading avocado and citrus producer, and many properties combine residential use with active groves or horse facilities. Nearly all outlying parcels operate on private wells and septic systems, and propane service is common. Note that many properties associated with Bonsall carry Fallbrook or Vista mailing addresses despite the community's own 92003 zip code.",
+  "neighborhoods": [
+   "Saratoga Estates",
+   "Lake Vista Estates",
+   "Olive Hill",
+   "Bonsall Village",
+   "Ocean Breeze Ranch",
+   "Vista Valley",
+   "San Luis Rey Downs"
+  ],
+  "highlights": "Landmarks include the San Luis Rey River Park, Bonsall Community Park, Vista Valley Country Club, and Bonsall Elementary within the Bonsall Unified School District.",
+  "valuation": "Bonsall valuations must weigh acreage, usable land, grove production, and equestrian improvements, along with well and septic condition. Because the true Bonsall zip is small and many parcels mail as Fallbrook or Vista, appraisers should define the market area geographically rather than by mailing address.",
+  "zips": "92003",
+  "nearby": [
+   "fallbrook",
+   "vista",
+   "oceanside",
+   "san-marcos"
+  ]
+ },
+ {
+  "slug": "valley-center",
+  "name": "Valley Center",
+  "region_tag": "North County Rural & Estates • San Diego County",
+  "lead": "Valley Center is a sprawling rural community northeast of Escondido, long recognized as one of the county's top avocado and citrus growing regions. Large parcels, working groves, and horse properties define its country character across nearly ninety-four square miles.",
+  "market": "Valley Center's inventory ranges from the master-planned Park Circle community to expansive grove estates and gated hillside custom homes in areas like Sky Ridge Estates. Agriculture remains central, with many parcels supporting fifteen-plus acres of producing avocado or citrus groves that add income value. Nearly every outlying property depends on private wells and septic systems, and water reliability is a consistent concern. Pricing varies widely with acreage, view, grove condition, and improvement quality across the community's many districts.",
+  "neighborhoods": [
+   "Park Circle",
+   "Woods Valley",
+   "Valley Center Estates",
+   "Valley Center Heights",
+   "Sky Ridge Estates",
+   "Lilac",
+   "Cole Grade corridor"
+  ],
+  "highlights": "Landmarks include Bates Nut Farm, the Valley View Casino & Hotel, and the schools of the Valley Center-Pauma Unified School District.",
+  "valuation": "Given the prevalence of large agricultural parcels, appraisals in Valley Center should address grove production, usable acreage, water source, and well and septic systems. The wide spread of lot sizes and improvement types calls for careful comparable selection and site-value analysis.",
+  "zips": "92082",
+  "nearby": [
+   "escondido",
+   "pauma-valley",
+   "san-marcos",
+   "fallbrook"
+  ]
+ },
+ {
+  "slug": "pauma-valley",
+  "name": "Pauma Valley",
+  "region_tag": "North County Rural & Estates • San Diego County",
+  "lead": "Pauma Valley is a scenic rural valley beneath Palomar Mountain, anchored by the guard-gated Pauma Valley Country Club and surrounded by working groves. Its mix of golf-community estates and agricultural acreage gives it a tranquil, self-contained character.",
+  "market": "Pauma Valley's market centers on the gated Pauma Valley Country Club, whose estates, ranchos, and condominiums range from fairway homes to multi-acre custom properties. Beyond the club, the valley holds avocado, citrus, and lemon groves on multi-acre parcels that carry agricultural value. Most outlying properties rely on private wells and septic systems, consistent with the surrounding rural districts. Sales volume is modest, and values track acreage, grove production, view, and club amenities.",
+  "neighborhoods": [
+   "Pauma Valley Country Club",
+   "PVCC Estates",
+   "PVCC Ranchos",
+   "PVCC Condominiums",
+   "Rincon area",
+   "Palomar Mountain foothills"
+  ],
+  "highlights": "Landmarks include the Pauma Valley Country Club golf course, Casino Pauma, Pauma School, and the nearby Palomar Observatory and Palomar Mountain State Park.",
+  "valuation": "Pauma Valley appraisals should distinguish gated country-club properties from outlying grove and acreage parcels, addressing grove production, well and septic condition, and usable land. Thin sales activity often requires extending the comparable search to adjacent rural communities.",
+  "zips": "92061",
+  "nearby": [
+   "valley-center",
+   "escondido",
+   "ramona",
+   "fallbrook"
+  ]
+ },
+ {
+  "slug": "rainbow",
+  "name": "Rainbow",
+  "region_tag": "North County Rural & Estates • San Diego County",
+  "lead": "Rainbow is a small unincorporated agricultural community near the Riverside County line, known for its nurseries, groves, and vineyards along the I-15 corridor. Large rural parcels and a working-land character define this quiet enclave north of Fallbrook.",
+  "market": "Rainbow's market is built around acreage, from vacant ranch land to grove and nursery properties and rural custom homes. Agriculture is prominent, with avocado and citrus groves, wholesale nurseries, and vineyards contributing to land value. Most parcels rely on private wells and onsite septic, though the Rainbow Municipal Water District serves portions of the community. Because Rainbow has no dedicated zip code and mails as Fallbrook 92028, the market area is best defined by its roads and geography rather than by address.",
+  "neighborhoods": [
+   "Rainbow Valley",
+   "Rainbow Glen",
+   "Rainbow Heights",
+   "Rainbow Canyon",
+   "Old Highway 395 corridor",
+   "Willow Glen",
+   "Huffstatler district"
+  ],
+  "highlights": "Landmarks include Rainbow Community Park, Rainbow Valley Elementary, the Rainbow Municipal Water District, and the surrounding grove and nursery lands along Old Highway 395.",
+  "valuation": "Rainbow valuations should account for acreage, agricultural improvements such as groves, nurseries, and vineyards, and the condition of wells and septic systems. Since Rainbow shares the 92028 zip with Fallbrook, comparable selection must isolate the true Rainbow submarket geographically.",
+  "zips": "92028",
+  "nearby": [
+   "fallbrook",
+   "bonsall",
+   "escondido",
+   "valley-center"
+  ]
+ },
+ {
+  "slug": "jamul",
+  "name": "Jamul",
+  "region_tag": "Backcountry • San Diego County",
+  "lead": "Jamul is a semi-rural foothill community east of San Diego, set among the rolling terrain at the edge of the Cuyamacas. Acreage parcels, horse properties, and vineyards give it a distinctly country feel within reach of the metro area.",
+  "market": "Jamul's market is dominated by rural residential acreage, with parcels commonly ranging from one to more than twenty-five acres in areas like Rancho Jamul, Lyons Valley, and Deerhorn Valley. Horse and ranch properties are prevalent, and some parcels support small vineyards. The vast majority of homes rely on private wells and septic systems, so water and terrain are central to value. Pricing reflects acreage, usable land, view, and improvement quality rather than tract-style comparison.",
+  "neighborhoods": [
+   "Rancho Jamul",
+   "Jamul Highlands",
+   "Lyons Valley",
+   "Deerhorn Valley",
+   "Skyline Ranch",
+   "Steele Canyon",
+   "Honey Springs",
+   "Dulzura"
+  ],
+  "highlights": "Landmarks include the Rancho Jamul Ecological Reserve, Hollenbeck Canyon Wildlife Area, Jamul Casino, and Steele Canyon High School.",
+  "valuation": "Jamul appraisals should address acreage, usable versus steep terrain, well and septic condition, and any equestrian or vineyard improvements. Because parcels vary widely in size and topography, site-value and paired analysis are often necessary.",
+  "zips": "91935",
+  "nearby": [
+   "rancho-san-diego",
+   "alpine",
+   "spring-valley",
+   "el-cajon"
+  ]
+ },
+ {
+  "slug": "ramona",
+  "name": "Ramona",
+  "region_tag": "Backcountry • San Diego County",
+  "lead": "Ramona is a backcountry valley town long associated with ranching, horses, and a growing wine region. It combines a walkable town core with expansive rural acreage and the large San Diego Country Estates community to the east.",
+  "market": "Ramona's market blends conventional town-lot homes with extensive rural acreage, anchored by the master-planned San Diego Country Estates and its golf and equestrian amenities. Ranch and horse properties are prevalent in Ballena, Mussey Grade, and the outlying valleys, many on multi-acre parcels served by private wells and septic. The community's agricultural and equestrian heritage supports steady demand for land, while the town core offers more attainable pricing. Values reflect acreage, water source, view, and improvement type across a broad spectrum.",
+  "neighborhoods": [
+   "San Diego Country Estates",
+   "Mt. Woodson",
+   "Mussey Grade",
+   "Ballena Valley",
+   "Highland Hills",
+   "Rancho San Vicente",
+   "West Ramona",
+   "Ramona Terrace Estates"
+  ],
+  "highlights": "Landmarks include Dos Picos County Park, Mt. Woodson and Potato Chip Rock, the Ramona Grasslands Preserve, and Ramona High School.",
+  "valuation": "Ramona valuations should weigh acreage, usable land, well and septic condition, and equestrian improvements, especially in the outlying valleys. The contrast between town-lot homes and large rural estates requires distinct comparable pools.",
+  "zips": "92065",
+  "nearby": [
+   "poway",
+   "escondido",
+   "julian",
+   "pauma-valley"
+  ]
+ },
+ {
+  "slug": "julian",
+  "name": "Julian",
+  "region_tag": "Backcountry • San Diego County",
+  "lead": "Julian is a historic mountain town at roughly 4,200 feet in the Cuyamacas, famous for its apple orchards and Gold Rush-era village. Forested acreage, cabins, and ranch properties define a market shaped by elevation and rural seclusion.",
+  "market": "Julian's market spans forested mountain lots, cabins, and orchard and ranch acreage across subdivisions such as Pine Hills, Kentwood-in-the-Pines, and Whispering Pines. Properties trade on their forest setting, view, and seclusion, and many combine residential use with orchards or small ranches. Outlying homes generally rely on private wells and septic, though community water districts serve some subdivisions. Seasonal tourism supports a cabin and short-term-rental segment, adding a distinct layer to the market.",
+  "neighborhoods": [
+   "Pine Hills",
+   "Kentwood-in-the-Pines",
+   "Whispering Pines",
+   "Wynola",
+   "Cuyamaca Woods",
+   "Harrison Park",
+   "Spencer Valley",
+   "Volcan"
+  ],
+  "highlights": "Landmarks include the Volcan Mountain Wilderness Preserve, William Heise County Park, the historic downtown apple orchards and Pioneer Museum, and Julian High School.",
+  "valuation": "Julian appraisals should account for elevation, forest and view setting, acreage, and well and septic condition, along with any orchard improvements. The cabin and short-term-rental segment can influence value, and thin sales often require a broadened comparable search across the mountain communities.",
+  "zips": "92036",
+  "nearby": [
+   "ramona",
+   "pine-valley",
+   "borrego-springs",
+   "alpine"
+  ]
+ },
+ {
+  "slug": "pine-valley",
+  "name": "Pine Valley",
+  "region_tag": "Backcountry • San Diego County",
+  "lead": "Pine Valley is a small mountain town at roughly 3,700 feet along I-8, surrounded by the Cleveland National Forest. Its rural setting, larger outlying parcels, and forest access make it a quiet retreat east of the metro area.",
+  "market": "Pine Valley's market consists of modest town homes and larger outlying acreage parcels in areas like Buckman Springs and Corte Madera. The surrounding national forest limits development and reinforces the rural mountain character, and properties trade on their setting, view, and land. The townsite has some community water service, but outlying homes typically rely on wells and septic. Sales volume is limited, and values reflect acreage, improvement quality, and proximity to forest recreation.",
+  "neighborhoods": [
+   "Old Pine Valley",
+   "Guatay",
+   "Descanso",
+   "Mount Laguna",
+   "Buckman Springs",
+   "Corte Madera Ranch",
+   "Pine Creek corridor"
+  ],
+  "highlights": "Landmarks include Pine Valley County Park, the Cleveland National Forest, the Laguna Mountain Recreation Area, and Pine Valley Elementary within the Mountain Empire Unified School District.",
+  "valuation": "Pine Valley valuations should address acreage, forest setting, view, and well and septic condition, distinguishing townsite lots from larger outlying ranch parcels. Limited sales activity frequently requires extending comparables to adjacent mountain communities.",
+  "zips": "91962",
+  "nearby": [
+   "alpine",
+   "julian",
+   "jamul",
+   "ramona"
+  ]
+ },
+ {
+  "slug": "borrego-springs",
+  "name": "Borrego Springs",
+  "region_tag": "Backcountry • San Diego County",
+  "lead": "Borrego Springs is an isolated desert resort and retirement community entirely surrounded by Anza-Borrego Desert State Park. Golf-course subdivisions, seasonal residency, and expansive desert parcels shape a market unlike any other in the county.",
+  "market": "Borrego Springs blends gated golf communities such as Rams Hill and the De Anza Country Club area with outlying large desert parcels and modest townsite homes. Seasonal and second-home ownership is prominent, and demand is closely tied to the resort amenities and desert recreation. Gated communities operate on private water systems, while outlying parcels rely on wells and septic within a designated groundwater basin, making water rights a meaningful consideration. Values reflect community, amenity access, view, and parcel size, with a distinct seasonal market rhythm.",
+  "neighborhoods": [
+   "Rams Hill",
+   "De Anza Country Club",
+   "Club Circle",
+   "Roadrunner Club",
+   "The Springs",
+   "Ocotillo Heights",
+   "Borrego Sun estates"
+  ],
+  "highlights": "Landmarks include Anza-Borrego Desert State Park, the Christmas Circle town center, the Galleta Meadows desert metal sculptures, and the De Anza and Rams Hill golf courses.",
+  "valuation": "Borrego Springs appraisals should distinguish gated golf communities on private water systems from outlying desert parcels on wells and septic, and should weigh water availability within the groundwater basin. The strong seasonal and second-home character affects marketing time and demand, warranting careful market-condition analysis.",
+  "zips": "92004",
+  "nearby": [
+   "julian",
+   "ramona",
+   "escondido",
+   "poway"
+  ]
+ }
+]
